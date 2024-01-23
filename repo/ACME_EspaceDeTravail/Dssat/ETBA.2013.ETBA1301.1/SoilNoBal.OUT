@@ -1,0 +1,34 @@
+*SOIL ORGANIC N BALANCE - CENTURY ROUTINES
+
+*DSSAT Cropping System Model Ver. 4.7.2.000 -release      OCT 15, 2021; 17:59:33
+                                                                                
+*RUN   1        :             CSM335_date_1 MZCER047 ITSA1301    1              
+ MODEL          : MZCER047 - Maize                                              
+ EXPERIMENT     : ITSA1301 SG CALIBRATION SETUP OF SORGHUM SOWING DATES         
+ DATA PATH      :                                                               
+ TREATMENT  1   :             CSM335_date_1 MZCER047                            
+  
+
+
+!                                        INITIAL Year/Doy      FINAL Year/Doy
+!                                                2013/156            2013/363
+! SOIL N BALANCE                                -----------kg N/ha-----------
+!  SOIL & SURFACE ORGANIC MATTER N
+!   Active (= microbial) SOM N                     270.80              234.71
+!   Intermediate SOM N                            3026.59             2954.88
+!   Passive SOM N                                29095.45            29088.14
+!   Soil Litter N                                    4.50                2.66
+!   N in Litter on Top of the Soil                   0.00                0.00
+!   N in Microbes on Top of the Soil                 0.00                0.00
+!                                                --------            --------
+!   Total Organic N in Soil and Surface Layers   32397.34            32280.39
+
+!  ADDITIONS AND REMOVALS:
+!   N in Harvest Residues from Previous Crop         0.00
+!   N from Organic Applications                      0.00
+!   N in returned senesced material                  5.82
+!   N immobilized                                   58.86
+!   N mineralized                                                      181.60
+!                                                --------            --------
+!     TOTAL N BALANCE                            32462.03            32461.98
+!   Balance                                                             -0.04

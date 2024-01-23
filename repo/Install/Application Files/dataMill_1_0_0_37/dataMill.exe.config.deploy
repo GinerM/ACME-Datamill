@@ -1,0 +1,9 @@
+﻿<configuration>
+  <configSections>
+  </configSections>
+  <connectionStrings>
+    <add name="Data_Arise"
+         connectionString="Provider=Microsoft.ACE.OLEDB.12.0;Data Source=D:\donneesFA\modelisation\Arise\dataMillArise\AppliDatamill\Data_Arise.accdb"
+         providerName="Microsoft.ACE.OLEDB.12.0" />
+  </connectionStrings>
+</configuration>

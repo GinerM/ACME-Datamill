@@ -1,0 +1,10 @@
+*Soils: Mali
+*XXBEOU0101
+@SITE        COUNTRY          LAT     LONG SCS FAMILY
+ XXBEOU0101     NoCountry   10.82    1.07   Classification francaise
+@ SCOM  SALB  SLU1  SLDR  SLRO  SLNF  SLPF  SMHB  SMPX  SMKE
+     R   0.3     6   0.6    30     1     1 IB001 IB001 IB001
+@  SLB  SLMH  SLLL  SDUL  SSAT  SRGF  SSKS  SBDM  SLOC  SLCL  SLSI  SLCF  SLNI  SLHW  SLHB  SCEC  SADC
+    30   -99 0.076 0.280 0.445     1  2.59 1.400 0.900     7    15     0 0.019     5   -99     5   -99
+    60   -99 0.076 0.280 0.445     1  2.59 1.400     0     7    15     0     0     5   -99     5   -99
+

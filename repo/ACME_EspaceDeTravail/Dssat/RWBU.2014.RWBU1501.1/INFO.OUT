@@ -1,0 +1,101 @@
+*INFO DETAIL FILE
+
+******************************************************************************
+
+*DSSAT Cropping System Model Ver. 4.7.2.000 -release      OCT 15, 2021; 17:59:35
+                                                                                
+*RUN   1        :             CSM335_date_1 MZCER047 ITSA1301    1              
+ MODEL          : MZCER047 - Maize                                              
+ EXPERIMENT     : ITSA1301 SG CALIBRATION SETUP OF SORGHUM SOWING DATES         
+ DATA PATH      :                                                               
+ TREATMENT  1   :             CSM335_date_1 MZCER047                            
+  
+
+ CSM     YEAR DOY = 2014 281
+ RNMODE = B                                                                    
+ PATHEX =                                                                      
+ FILEX  = ITSA1301.SGX                                                         
+ FILEB  = DSSBatch.v47                                                         
+ FILEIO = DSSAT47.INP                                                          
+ MODEL  = MZCER047                                                             
+ TRTNUM =     1                                                                
+
+ SOILDYN  YEAR DOY = 2014 281
+ The soil file has missing or invalid data.                                    
+ Default values have been used for these variables:                            
+   ADCOEF                                                                      
+ These defaults may or may not be important to your results.                   
+
+ RETC  YEAR DOY = 2014 281
+ Soil RETC parameters:                                                         
+  LYR DS  SWCN   WCR    Hb Lambd  Alpha     m     n Texture                    
+   1   5  2.59 0.030   0.0 0.227  0.063 0.311 1.452 SandyLoam                  
+   2  15  2.59 0.030   0.0 0.227  0.063 0.311 1.452 SandyLoam                  
+   3  30  2.59 0.030   0.0 0.227  0.063 0.311 1.452 SandyLoam                  
+   4  53  2.59 0.030   0.0 0.227  0.063 0.311 1.452 SandyLoam                  
+   5  77  2.59 0.030   0.0 0.227  0.063 0.311 1.452 SandyLoam                  
+   6 100  2.59 0.030   0.0 0.227  0.063 0.311 1.452 SandyLoam                  
+
+ SOILDYN  YEAR DOY = 2014 281
+ Soil ID: XXRWBU0101                                                           
+                                                                               
+  CLASSIFICATION FRANCAISE                                                     
+   SALB SWCON    CN  DMOD  SLPF SMPX                                           
+   0.30  0.60  30.0  1.00  1.00 IB001                                          
+ Soil layer distribution method: 2                                             
+      DS DLAYR    LL   DUL   SAT  Root    BD    OC  CLAY  SILT  SAND           
+ LYR  cm    cm  frac  frac  frac  Grow g/cm3     %     %     %     %    pH     
+   1   5     5 0.070 0.154 0.445 1.000  1.40  0.80  10.0  25.0  65.0   5.0     
+   2  15    10 0.070 0.154 0.445 1.000  1.40  0.80  10.0  25.0  65.0   5.0     
+   3  30    15 0.070 0.154 0.445 1.000  1.40  0.80  10.0  25.0  65.0   5.0     
+   4  53    23 0.070 0.154 0.445 1.000  1.40  0.59  10.0  25.0  65.0   5.0     
+   5  77    24 0.070 0.154 0.445 1.000  1.40  0.59  10.0  25.0  65.0   5.0     
+   6 100    23 0.070 0.154 0.445 1.000  1.40  0.59  10.0  25.0  65.0   5.0     
+
+ SOILDYN  YEAR DOY = 2014 281
+ Additional soil properties                                                    
+                Convert                                                        
+    Cation Adsrp  ppm /  KSAT  SLCF  TOTN  OrgN                                
+   L  Exch  Coef  kg/ha  cm/h     %     % kg/ha                                
+   1   5.0   0.0   1.43   2.6   0.0  0.13   938                                
+   2   5.0   0.0   0.71   2.6   0.0  0.13  1875                                
+   3   5.0   0.0   0.48   2.6   0.0  0.13  2813                                
+   4   5.0   0.0   0.31   2.6   0.0  0.00   -99                                
+   5   5.0   0.0   0.30   2.6   0.0  0.00   -99                                
+   6   5.0   0.0   0.31   2.6   0.0  0.00   -99                                
+
+ IPWTH   YEAR DOY = 2014 281
+ RWBU1401.WTH                                                                  
+ Found daily weather data headers for:                                         
+   SRAD           Col   7 -  11                                                
+   TMAX           Col  13 -  17                                                
+   TMIN           Col  19 -  24                                                
+   RAIN           Col  26 -  30                                                
+   DEWP           Col  32 -  36                                                
+   WIND           Col  38 -  42                                                
+   PAR            Col  44 -  48                                                
+   RHUM           Col  56 -  60                                                
+
+ CO2VAL  YEAR DOY = 2014 281
+  721 CO2 data points read from file.                                          
+ C:\DSSAT47\StandardData\CO2047.WDA                                            
+
+ SOMINI  YEAR DOY = 2014 281
+ Field history for initial soil organic matter composition.                    
+ File: C:\DSSAT47\StandardData\SOMFR047.SDA                                    
+ Field history code: FH201 Cultivated with good management practices, initial  
+ Duration:   0 years                                                           
+
+ SOMINI  YEAR DOY = 2014 281
+ Initial SOM fractions (fraction of total soil organic matter):                
+                      SAND   TOC  FOMC  SOMC  SOM1  SOM2  SOM3                 
+  Lyr Dep Texture       %     %     %     %   frac  frac  frac Method          
+   1   5 SandyLoam    65.0 0.800 0.004 0.796 0.033 0.627 0.340 Field history   
+   2  15 SandyLoam    65.0 0.800 0.003 0.797 0.033 0.627 0.340 Field history   
+   3  30 SandyLoam    65.0 0.800 0.002 0.798 0.033 0.627 0.340 Field history   
+   4  53 SandyLoam    65.0 0.594 0.001 0.593 0.001 0.019 0.980 Regression eqn  
+   5  77 SandyLoam    65.0 0.594 0.001 0.593 0.001 0.019 0.980 Regression eqn  
+   6 100 SandyLoam    65.0 0.594 0.000 0.594 0.001 0.019 0.980 Regression eqn  
+
+ ENDRUN  YEAR DOY = 2015  62
+ Normal end of run        1                                                    

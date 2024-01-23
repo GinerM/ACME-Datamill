@@ -1,0 +1,34 @@
+*SOIL ORGANIC N BALANCE - CENTURY ROUTINES
+
+*DSSAT Cropping System Model Ver. 4.7.2.000 -release      OCT 15, 2021; 17:59:33
+                                                                                
+*RUN   1        :             CSM335_date_1 MZCER047 ITSA1301    1              
+ MODEL          : MZCER047 - Maize                                              
+ EXPERIMENT     : ITSA1301 SG CALIBRATION SETUP OF SORGHUM SOWING DATES         
+ DATA PATH      :                                                               
+ TREATMENT  1   :             CSM335_date_1 MZCER047                            
+  
+
+
+!                                        INITIAL Year/Doy      FINAL Year/Doy
+!                                                2008/110            2008/256
+! SOIL N BALANCE                                -----------kg N/ha-----------
+!  SOIL & SURFACE ORGANIC MATTER N
+!   Active (= microbial) SOM N                     274.25              229.31
+!   Intermediate SOM N                            3065.17             2970.98
+!   Passive SOM N                                24115.91            24096.30
+!   Soil Litter N                                    4.50                0.38
+!   N in Litter on Top of the Soil                   0.00                0.00
+!   N in Microbes on Top of the Soil                 0.00                0.00
+!                                                --------            --------
+!   Total Organic N in Soil and Surface Layers   27459.84            27296.97
+
+!  ADDITIONS AND REMOVALS:
+!   N in Harvest Residues from Previous Crop         0.00
+!   N from Organic Applications                      0.00
+!   N in returned senesced material                  1.09
+!   N immobilized                                   75.11
+!   N mineralized                                                      239.07
+!                                                --------            --------
+!     TOTAL N BALANCE                            27536.04            27536.04
+!   Balance                                                             -0.00

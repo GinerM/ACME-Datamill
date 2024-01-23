@@ -1,0 +1,32 @@
+*WATER BALANCE OUTPUT FILE
+
+*DSSAT Cropping System Model Ver. 4.7.2.000 -release      OCT 15, 2021; 17:59:33
+                                                                                
+*RUN   1        :             CSM335_date_1 MZCER047 ITSA1301    1              
+ MODEL          : MZCER047 - Maize                                              
+ EXPERIMENT     : ITSA1301 SG CALIBRATION SETUP OF SORGHUM SOWING DATES         
+ DATA PATH      :                                                               
+ TREATMENT  1   :             CSM335_date_1 MZCER047                            
+  
+
+!     WATER BALANCE PARAMETERS
+!     ========================                 --mm--
+
+!     Soil H20 (start) on Year/day 2014/175     78.00
+!     Soil H20 (final) on Year/day 2014/330     48.58
+!     Effective Irrigation                       0.00
+!     Precipitation                            658.30
+!     Water added with new mulch                 0.00
+!     Drainage                                 209.71
+!     Tiledrain flow                             0.00
+!     Runoff                                     0.02
+!     Mulch evaporation                          0.00
+!     Soil Evaporation                         190.91
+!     Transpiration                            287.09
+!     Potential ET                             789.60
+
+!     Initial mulch water content                0.00
+!     Final mulch water content                  0.00
+
+!     Final Balance                             0.001
+

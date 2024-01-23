@@ -1,0 +1,30 @@
+*WARNING DETAIL FILE
+
+******************************************************************************
+
+*DSSAT Cropping System Model Ver. 4.7.2.000 -release      OCT 15, 2021; 17:59:34
+                                                                                
+*RUN   1        :             CSM335_date_1 MZCER047 ITSA1301    1              
+ MODEL          : MZCER047 - Maize                                              
+ EXPERIMENT     : ITSA1301 SG CALIBRATION SETUP OF SORGHUM SOWING DATES         
+ DATA PATH      :                                                               
+ TREATMENT  1   :             CSM335_date_1 MZCER047                            
+  
+
+ SOILDYN  YEAR DOY = 2013 266
+ Organic C data in one or more soil layers are zero or missing.                
+ A minimum value of OC in this layer  will be estimated using soil texture.    
+       Depth  Clay  Silt    OC                                                 
+ Layer  (cm)   (%)   (%)   (%)                                                 
+     1     5  10.0  25.0  0.80                                                 
+     2    15  10.0  25.0  0.80                                                 
+     3    30  10.0  25.0  0.80                                                 
+     4    53  10.0  25.0  0.59 (estimated)                                     
+     5    77  10.0  25.0  0.59 (estimated)                                     
+     6   100  10.0  25.0  0.59 (estimated)                                     
+
+ IPWTH   YEAR DOY = 2013 310
+ Warning: SRAD < 1                                                             
+ RWBU1301.WTH                                                                  
+ Line       97                                                                 
+ SRAD =   0.21                                                                 

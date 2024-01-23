@@ -1,0 +1,10 @@
+*Soils: Mali
+*XXGHKP0101
+@SITE        COUNTRY          LAT     LONG SCS FAMILY
+ XXGHKP0101     NoCountry    6.16    0.06   Classification francaise
+@ SCOM  SALB  SLU1  SLDR  SLRO  SLNF  SLPF  SMHB  SMPX  SMKE
+     R   0.2     6   0.6    30     1     1 IB001 IB001 IB001
+@  SLB  SLMH  SLLL  SDUL  SSAT  SRGF  SSKS  SBDM  SLOC  SLCL  SLSI  SLCF  SLNI  SLHW  SLHB  SCEC  SADC
+    30   -99 0.255 0.335 0.445     1  2.59 1.455 1.800    70    20     0 0.048     5   -99     5   -99
+   100   -99 0.255 0.335 0.445     1  2.59 1.455     0    70    20     0     0     5   -99     5   -99
+

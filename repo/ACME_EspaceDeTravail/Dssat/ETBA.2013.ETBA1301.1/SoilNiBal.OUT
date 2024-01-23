@@ -1,0 +1,38 @@
+*SOIL INORGANIC N BALANCE
+
+*DSSAT Cropping System Model Ver. 4.7.2.000 -release      OCT 15, 2021; 17:59:33
+                                                                                
+*RUN   1        :             CSM335_date_1 MZCER047 ITSA1301    1              
+ MODEL          : MZCER047 - Maize                                              
+ EXPERIMENT     : ITSA1301 SG CALIBRATION SETUP OF SORGHUM SOWING DATES         
+ DATA PATH      :                                                               
+ TREATMENT  1   :             CSM335_date_1 MZCER047                            
+  
+
+
+!SOIL INORGANIC N BALANCE                         Initial               Final
+!                                                Year/Doy            Year/Doy
+!                                                2013/156            2013/363
+!                                               (kg[N]/ha)          (kg[N]/ha)
+! Soil N state variables:
+!   Soil NO3                                         0.00               63.34
+!   Soil NH4                                        10.22                0.34
+!   Soil Urea                                        0.00                0.00
+!   Soil N gases                                     0.00                0.01
+
+! N additions:
+!   Fertilizer N                                    86.00
+!   Mineralized N                                  181.60
+
+! N subtractions:
+!   N immobilized                                                       58.86
+!   N leached                                                            0.00
+!   N loss to tile drainage                                              0.00
+!   N Uptake From Soil                                                 154.62
+!   NH3 loss                                                             0.00
+!   N2O loss                                                             0.21
+!   N2 loss                                                              0.33
+!   NO loss                                                              0.10
+
+!   Total N balance                                277.82              277.82
+!   Balance                                                             0.000

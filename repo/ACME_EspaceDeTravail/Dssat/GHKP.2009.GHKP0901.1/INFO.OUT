@@ -1,0 +1,101 @@
+*INFO DETAIL FILE
+
+******************************************************************************
+
+*DSSAT Cropping System Model Ver. 4.7.2.000 -release      OCT 15, 2021; 17:59:34
+                                                                                
+*RUN   1        :             CSM335_date_1 MZCER047 ITSA1301    1              
+ MODEL          : MZCER047 - Maize                                              
+ EXPERIMENT     : ITSA1301 SG CALIBRATION SETUP OF SORGHUM SOWING DATES         
+ DATA PATH      :                                                               
+ TREATMENT  1   :             CSM335_date_1 MZCER047                            
+  
+
+ CSM     YEAR DOY = 2009 104
+ RNMODE = B                                                                    
+ PATHEX =                                                                      
+ FILEX  = ITSA1301.SGX                                                         
+ FILEB  = DSSBatch.v47                                                         
+ FILEIO = DSSAT47.INP                                                          
+ MODEL  = MZCER047                                                             
+ TRTNUM =     1                                                                
+
+ SOILDYN  YEAR DOY = 2009 104
+ The soil file has missing or invalid data.                                    
+ Default values have been used for these variables:                            
+   ADCOEF                                                                      
+ These defaults may or may not be important to your results.                   
+
+ RETC  YEAR DOY = 2009 104
+ Soil RETC parameters:                                                         
+  LYR DS  SWCN   WCR    Hb Lambd  Alpha     m     n Texture                    
+   1   5  2.59 0.086   1.2 0.101  0.026 0.114 1.128 Clay                       
+   2  15  2.59 0.086   1.2 0.101  0.026 0.114 1.128 Clay                       
+   3  30  2.59 0.086   1.2 0.101  0.026 0.114 1.128 Clay                       
+   4  53  2.59 0.086   1.2 0.101  0.026 0.114 1.128 Clay                       
+   5  77  2.59 0.086   1.2 0.101  0.026 0.114 1.128 Clay                       
+   6 100  2.59 0.086   1.2 0.101  0.026 0.114 1.128 Clay                       
+
+ SOILDYN  YEAR DOY = 2009 104
+ Soil ID: XXGHKP0101                                                           
+                                                                               
+  CLASSIFICATION FRANCAISE                                                     
+   SALB SWCON    CN  DMOD  SLPF SMPX                                           
+   0.20  0.60  30.0  1.00  1.00 IB001                                          
+ Soil layer distribution method: 2                                             
+      DS DLAYR    LL   DUL   SAT  Root    BD    OC  CLAY  SILT  SAND           
+ LYR  cm    cm  frac  frac  frac  Grow g/cm3     %     %     %     %    pH     
+   1   5     5 0.260 0.342 0.445 1.000  1.49  1.80  70.0  20.0  10.0   5.0     
+   2  15    10 0.260 0.342 0.445 1.000  1.49  1.80  70.0  20.0  10.0   5.0     
+   3  30    15 0.260 0.342 0.445 1.000  1.49  1.80  70.0  20.0  10.0   5.0     
+   4  53    23 0.260 0.342 0.445 1.000  1.48  1.42  70.0  20.0  10.0   5.0     
+   5  77    24 0.260 0.342 0.445 1.000  1.49  1.42  70.0  20.0  10.0   5.0     
+   6 100    23 0.260 0.342 0.445 1.000  1.48  1.42  70.0  20.0  10.0   5.0     
+
+ SOILDYN  YEAR DOY = 2009 104
+ Additional soil properties                                                    
+                Convert                                                        
+    Cation Adsrp  ppm /  KSAT  SLCF  TOTN  OrgN                                
+   L  Exch  Coef  kg/ha  cm/h     %     % kg/ha                                
+   1   5.0   0.0   1.34   2.6   0.0  0.05   371                                
+   2   5.0   0.0   0.67   2.6   0.0  0.05   741                                
+   3   5.0   0.0   0.45   2.6   0.0  0.05  1112                                
+   4   5.0   0.0   0.29   2.6   0.0  0.00   -99                                
+   5   5.0   0.0   0.28   2.6   0.0  0.00   -99                                
+   6   5.0   0.0   0.29   2.6   0.0  0.00   -99                                
+
+ IPWTH   YEAR DOY = 2009 104
+ GHKP0901.WTH                                                                  
+ Found daily weather data headers for:                                         
+   SRAD           Col   7 -  11                                                
+   TMAX           Col  13 -  17                                                
+   TMIN           Col  19 -  24                                                
+   RAIN           Col  26 -  30                                                
+   DEWP           Col  32 -  36                                                
+   WIND           Col  38 -  42                                                
+   PAR            Col  44 -  48                                                
+   RHUM           Col  56 -  60                                                
+
+ CO2VAL  YEAR DOY = 2009 104
+  721 CO2 data points read from file.                                          
+ C:\DSSAT47\StandardData\CO2047.WDA                                            
+
+ SOMINI  YEAR DOY = 2009 104
+ Field history for initial soil organic matter composition.                    
+ File: C:\DSSAT47\StandardData\SOMFR047.SDA                                    
+ Field history code: FH201 Cultivated with good management practices, initial  
+ Duration:   0 years                                                           
+
+ SOMINI  YEAR DOY = 2009 104
+ Initial SOM fractions (fraction of total soil organic matter):                
+                      SAND   TOC  FOMC  SOMC  SOM1  SOM2  SOM3                 
+  Lyr Dep Texture       %     %     %     %   frac  frac  frac Method          
+   1   5 Clay         10.0 1.800 0.004 1.796 0.033 0.627 0.340 Field history   
+   2  15 Clay         10.0 1.800 0.003 1.797 0.033 0.627 0.340 Field history   
+   3  30 Clay         10.0 1.800 0.002 1.798 0.033 0.627 0.340 Field history   
+   4  53 Clay         10.0 1.419 0.001 1.418 0.001 0.019 0.980 Regression eqn  
+   5  77 Clay         10.0 1.419 0.001 1.418 0.001 0.019 0.980 Regression eqn  
+   6 100 Clay         10.0 1.419 0.000 1.419 0.001 0.019 0.980 Regression eqn  
+
+ ENDRUN  YEAR DOY = 2009 250
+ Normal end of run        1                                                    

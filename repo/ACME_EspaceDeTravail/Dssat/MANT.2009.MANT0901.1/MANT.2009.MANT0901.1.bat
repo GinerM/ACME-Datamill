@@ -1,0 +1,2 @@
+C:\DSSAT47\DSCSM047.EXE B DSSBatch.v47
+exit
