@@ -53,3 +53,11 @@ iii) the data defining the link between ACME inputs and model-specific inputs fo
 
 iv) default fixed values of model-specific inputs that are not related to any ACME input.
 DataMill is the executable code written in Visual Basic (VB.net). It reads ACME input variables from the MasterInputOutput database. For each model-specific input, it assigns a value based on the link defined in the ModelDictionnary, i.e. either using the default value or applying the mathematical transformation. Then, each model-specific input is written in the native file system of the model, and DataMill launches the model simulations and distributes the computing tasks across the processor cores. Finally, the code reads the selected output variables from the native file system of each crop model and writes them into the MasterInputOuptut database. The main input table in the MasterInputOuptut database, containing the list of simulation units, is indexed with a unique identifier, used for naming the files in the native file system of the models. This ensures immediate and secure retrieval of simulation outputs and inputs for comparison and data analysis.
+
+You will find
+
+- source code of Datamill in src directory
+
+- Installable binary code in Install directory (download ans use Setup.exe) 
+
+- An example workspace for ACME (ACME_EspaceDeTravail to copy on your disk)
