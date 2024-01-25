@@ -1,11 +1,11 @@
 # ACME-Datamill
 The ACME software package consists of 
-i) an ensemble of crop models, 
+i) an ensemble of crop models,
 ii) a database enabling the management of input and output data of these crop
-models (‘MasterInputOutput’), 
+models (‘MasterInputOutput’),
 iii) a database containing tables that links the variables in the 
 MasterInputOutput to the variables in the different crop models 
-(‘ModelDictionnary’), and 
+(‘ModelDictionnary’), and
 iv) the software that generates the data flows between these databases and 
 runs the crop models – named ‘DataMill’. 
 
