@@ -61,3 +61,6 @@ You will find
 - Installable binary code in Install directory (download ans use Setup.exe) 
 
 - An example workspace for ACME (ACME_EspaceDeTravail to copy on your disk)
+
+- An ACME implementation documentation in Datamill_Manual file
+
